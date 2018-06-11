@@ -1,0 +1,23 @@
+{
+  "name": "typescriptejercices",
+  "version": "1.0.0",
+  "description": "multiplica",
+  "main": "multiplica.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mantecorso/typescriptejercices.git"
+  },
+  "author": "Luis Jurado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mantecorso/typescriptejercices/issues"
+  },
+  "homepage": "https://github.com/Mantecorso/typescriptejercices#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "live-server": "^1.2.0"
+  }
+}

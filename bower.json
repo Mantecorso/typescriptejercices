@@ -1,0 +1,20 @@
+{
+  "name": "typescriptejercices",
+  "homepage": "https://github.com/Mantecorso/typescriptejercices",
+  "authors": [
+    "Mantecorso <luisjuradoquesada@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
